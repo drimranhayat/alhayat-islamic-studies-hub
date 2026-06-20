@@ -219,6 +219,15 @@ window.ALHAYAT_DATA = {
   ],
   featuredLessons: [
     {
+  id: "quran-majeed-ka-taaruf",
+  title: "قرآن مجید کا تعارف",
+  subjectId: "quran-tafsir",
+  sectionIndex: 0,
+  tag: "قرآن مجید",
+  href: "quran-majeed/quran-majeed-ka-taaruf/",
+  description: "قرآن مجید کی بنیادی شناخت، مقام، ہدایت، اسلامی علوم میں مرکزیت، عربی نصوص، جامع مضمون، سوالات اور MCQs۔"
+},
+    {
       id: "asbab-al-nuzool",
       subjectId: "quran-tafsir",
       sectionIndex: 1,
