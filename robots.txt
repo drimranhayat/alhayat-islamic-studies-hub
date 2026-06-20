@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: ./sitemap.xml
+Sitemap: https://drimranhayat.github.io/alhayat-islamic-studies-hub/sitemap.xml
