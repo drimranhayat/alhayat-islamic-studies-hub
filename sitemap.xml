@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/</loc></url>
   <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/subjects/</loc></url>
-  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/search/</loc></url>
-  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/glossary/</loc></url>
-  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/pathways/</loc></url>
   <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/questions/</loc></url>
+  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/short-qa/</loc></url>
+  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/glossary/</loc></url>
   <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/sources/</loc></url>
+  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/pathways/</loc></url>
+  <url><loc>https://drimranhayat.github.io/alhayat-islamic-studies-hub/search/</loc></url>
 </urlset>
