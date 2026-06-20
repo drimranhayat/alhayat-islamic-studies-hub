@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>./</loc></url>
+  <url><loc>./subjects/</loc></url>
+  <url><loc>./search/</loc></url>
+  <url><loc>./glossary/</loc></url>
+  <url><loc>./pathways/</loc></url>
+  <url><loc>./questions/</loc></url>
+  <url><loc>./sources/</loc></url>
+</urlset>

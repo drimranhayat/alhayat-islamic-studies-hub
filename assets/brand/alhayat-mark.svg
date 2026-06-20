@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Al-Hayat Islamic Studies Hub Mark</title>
+  <desc id="desc">An emerald and gold open book within an Islamic arch.</desc>
+  <defs>
+    <linearGradient id="emerald" x1="34" x2="222" y1="28" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00685f"/>
+      <stop offset="1" stop-color="#003f3a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="54" x2="202" y1="22" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d7ad63"/>
+      <stop offset="1" stop-color="#a87525"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#fff7e8"/>
+  <path fill="url(#emerald)" d="M128 22c41 28 67 58 78 91v93c0 15-12 27-27 27H77c-15 0-27-12-27-27v-93c11-33 37-63 78-91Z"/>
+  <path fill="#fff7e8" d="M128 45c30 23 49 47 57 72v83c0 8-6 14-14 14H85c-8 0-14-6-14-14v-83c8-25 27-49 57-72Z"/>
+  <path fill="url(#gold)" d="M128 60c25 20 40 41 46 62v75H82v-75c6-21 21-42 46-62Z"/>
+  <path fill="#fff9ee" d="M92 122c14 0 26 4 36 12 10-8 22-12 36-12v58c-14 0-26 4-36 12-10-8-22-12-36-12v-58Z"/>
+  <path fill="none" stroke="#00544e" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M128 134v58M96 137c11 0 22 4 32 12m32-12c-11 0-22 4-32 12"/>
+  <path fill="none" stroke="#fff7e8" stroke-linecap="round" stroke-width="8" d="M78 105c9-22 26-42 50-61 24 19 41 39 50 61"/>
+  <path fill="#b8893c" d="M128 12 139 33h-22l11-21Zm0 207 9 17h-18l9-17Z"/>
+</svg>

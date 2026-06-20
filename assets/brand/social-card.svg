@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop stop-color="#fff8ec"/>
+      <stop offset=".55" stop-color="#fbf1df"/>
+      <stop offset="1" stop-color="#0a4e48"/>
+    </linearGradient>
+    <pattern id="geo" width="58" height="58" patternUnits="userSpaceOnUse">
+      <path d="M29 0 58 29 29 58 0 29Z" fill="none" stroke="#b8893c" stroke-opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#geo)"/>
+  <circle cx="1015" cy="168" r="106" fill="#fff8ec" opacity=".92"/>
+  <image href="alhayat-mark.svg" x="922" y="75" width="186" height="186"/>
+  <text x="720" y="230" fill="#063f3b" font-family="Noto Nastaliq Urdu, serif" font-size="74" text-anchor="middle">الحیات مرکزِ علومِ اسلامیہ</text>
+  <text x="720" y="314" fill="#0b5d55" font-family="Noto Nastaliq Urdu, serif" font-size="42" text-anchor="middle">علم کے دروازے، بصیرت کے راستے</text>
+  <text x="720" y="380" fill="#5d6f68" font-family="Inter, Arial, sans-serif" font-size="28" text-anchor="middle">Al-Hayat Islamic Studies Hub</text>
+  <rect x="160" y="450" width="880" height="74" rx="12" fill="#004c47"/>
+  <text x="600" y="498" fill="#f5dfb5" font-family="Noto Nastaliq Urdu, serif" font-size="32" text-anchor="middle">منظم، مستند، searchable اور mobile-first اردو اسلامیات</text>
+</svg>
