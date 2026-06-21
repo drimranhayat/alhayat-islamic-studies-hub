@@ -1647,8 +1647,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-names-attributes-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-names-attributes-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-introduction",
       "nextTopicId": "quran-hidayah-centrality"
@@ -1696,8 +1700,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-hidayah-centrality-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-hidayah-centrality-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-names-attributes",
       "nextTopicId": "quran-and-human-life"
@@ -1745,8 +1753,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-human-life-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-human-life-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-hidayah-centrality",
       "nextTopicId": "quran-as-primary-source"
@@ -1794,8 +1806,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-as-primary-source-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-as-primary-source-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-human-life",
       "nextTopicId": "quran-relation-with-reader"
@@ -1843,8 +1859,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-relation-with-reader-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-relation-with-reader-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-as-primary-source",
       "nextTopicId": "quran-etiquettes-of-study"
@@ -1892,8 +1912,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-etiquettes-of-study-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-etiquettes-of-study-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-relation-with-reader",
       "nextTopicId": "quran-place-in-islamic-sciences"
@@ -1941,8 +1965,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-place-in-islamic-sciences-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-place-in-islamic-sciences-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-etiquettes-of-study",
       "nextTopicId": "wahi"
@@ -2095,8 +2123,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-forms-of-wahi-concept"
+      ],
+      "shortQAIds": [
+        "qa-forms-of-wahi-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "wahi",
       "nextTopicId": "angel-jibreel-and-revelation"
@@ -2144,8 +2176,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-angel-jibreel-and-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-angel-jibreel-and-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "forms-of-wahi",
       "nextTopicId": "first-revelation"
@@ -2193,8 +2229,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-first-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-first-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "angel-jibreel-and-revelation",
       "nextTopicId": "gradual-revelation"
@@ -2242,8 +2282,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-gradual-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-gradual-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "first-revelation",
       "nextTopicId": "makki-madani-revelation"
@@ -2291,8 +2335,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-makki-madani-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-makki-madani-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "gradual-revelation",
       "nextTopicId": "revelation-and-prophetic-life"
@@ -2340,8 +2388,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-revelation-and-prophetic-life-concept"
+      ],
+      "shortQAIds": [
+        "qa-revelation-and-prophetic-life-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "makki-madani-revelation",
       "nextTopicId": "preservation-during-revelation"
@@ -2389,8 +2441,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-preservation-during-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-preservation-during-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "revelation-and-prophetic-life",
       "nextTopicId": "writing-of-revelation"
@@ -2438,8 +2494,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-writing-of-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-writing-of-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "preservation-during-revelation",
       "nextTopicId": "scribes-of-revelation"
@@ -2487,8 +2547,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-scribes-of-revelation-concept"
+      ],
+      "shortQAIds": [
+        "qa-scribes-of-revelation-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "writing-of-revelation",
       "nextTopicId": "memorization-in-prophetic-era"
@@ -2536,8 +2600,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-memorization-in-prophetic-era-concept"
+      ],
+      "shortQAIds": [
+        "qa-memorization-in-prophetic-era-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "scribes-of-revelation",
       "nextTopicId": "compilation-in-abu-bakr-era"
@@ -2585,8 +2653,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-compilation-in-abu-bakr-era-concept"
+      ],
+      "shortQAIds": [
+        "qa-compilation-in-abu-bakr-era-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "memorization-in-prophetic-era",
       "nextTopicId": "uthmani-mushaf-standardization"
@@ -2634,8 +2706,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-uthmani-mushaf-standardization-concept"
+      ],
+      "shortQAIds": [
+        "qa-uthmani-mushaf-standardization-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "compilation-in-abu-bakr-era",
       "nextTopicId": "order-of-ayat-and-surahs"
@@ -2683,8 +2759,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-order-of-ayat-and-surahs-concept"
+      ],
+      "shortQAIds": [
+        "qa-order-of-ayat-and-surahs-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "uthmani-mushaf-standardization",
       "nextTopicId": "rasm-uthmani"
@@ -2732,8 +2812,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-rasm-uthmani-concept"
+      ],
+      "shortQAIds": [
+        "qa-rasm-uthmani-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "order-of-ayat-and-surahs",
       "nextTopicId": "transmission-by-tawatur"
@@ -2781,8 +2865,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-transmission-by-tawatur-concept"
+      ],
+      "shortQAIds": [
+        "qa-transmission-by-tawatur-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "rasm-uthmani",
       "nextTopicId": "uloom-al-quran-scope"
@@ -2830,8 +2918,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-uloom-al-quran-scope-concept"
+      ],
+      "shortQAIds": [
+        "qa-uloom-al-quran-scope-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "transmission-by-tawatur",
       "nextTopicId": "asbab-al-nuzool"
@@ -2987,8 +3079,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-nasikh-mansukh-concept"
+      ],
+      "shortQAIds": [
+        "qa-nasikh-mansukh-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "asbab-al-nuzool",
       "nextTopicId": "muhkam-mutashabih"
@@ -3036,8 +3132,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-muhkam-mutashabih-concept"
+      ],
+      "shortQAIds": [
+        "qa-muhkam-mutashabih-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "nasikh-mansukh",
       "nextTopicId": "aam-khaas-mutlaq-muqayyad"
@@ -3085,8 +3185,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-aam-khaas-mutlaq-muqayyad-concept"
+      ],
+      "shortQAIds": [
+        "qa-aam-khaas-mutlaq-muqayyad-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "muhkam-mutashabih",
       "nextTopicId": "qasas-al-quran"
@@ -3134,8 +3238,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-qasas-al-quran-concept"
+      ],
+      "shortQAIds": [
+        "qa-qasas-al-quran-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "aam-khaas-mutlaq-muqayyad",
       "nextTopicId": "amthal-al-quran"
@@ -3183,8 +3291,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-amthal-al-quran-concept"
+      ],
+      "shortQAIds": [
+        "qa-amthal-al-quran-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "qasas-al-quran",
       "nextTopicId": "ijaz-al-quran-overview"
@@ -3232,8 +3344,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-ijaz-al-quran-overview-concept"
+      ],
+      "shortQAIds": [
+        "qa-ijaz-al-quran-overview-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "amthal-al-quran",
       "nextTopicId": "usul-tafsir-meaning"
@@ -3281,8 +3397,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-usul-tafsir-meaning-concept"
+      ],
+      "shortQAIds": [
+        "qa-usul-tafsir-meaning-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "ijaz-al-quran-overview",
       "nextTopicId": "tafsir-by-quran"
@@ -3330,8 +3450,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-by-quran-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-by-quran-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "usul-tafsir-meaning",
       "nextTopicId": "tafsir-by-sunnah"
@@ -3379,8 +3503,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-by-sunnah-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-by-sunnah-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-by-quran",
       "nextTopicId": "tafsir-by-sahabah"
@@ -3428,8 +3556,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-by-sahabah-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-by-sahabah-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-by-sunnah",
       "nextTopicId": "arabic-language-in-tafsir"
@@ -3477,8 +3609,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-arabic-language-in-tafsir-concept"
+      ],
+      "shortQAIds": [
+        "qa-arabic-language-in-tafsir-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-by-sahabah",
       "nextTopicId": "context-in-tafsir"
@@ -3526,8 +3662,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-context-in-tafsir-concept"
+      ],
+      "shortQAIds": [
+        "qa-context-in-tafsir-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "arabic-language-in-tafsir",
       "nextTopicId": "reason-and-tafsir"
@@ -3575,8 +3715,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-reason-and-tafsir-concept"
+      ],
+      "shortQAIds": [
+        "qa-reason-and-tafsir-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "context-in-tafsir",
       "nextTopicId": "errors-in-tafsir"
@@ -3624,8 +3768,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-errors-in-tafsir-concept"
+      ],
+      "shortQAIds": [
+        "qa-errors-in-tafsir-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "reason-and-tafsir",
       "nextTopicId": "tafsir-bil-mathur"
@@ -3673,8 +3821,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-bil-mathur-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-bil-mathur-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "errors-in-tafsir",
       "nextTopicId": "tafsir-bil-ray"
@@ -3722,8 +3874,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-bil-ray-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-bil-ray-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-bil-mathur",
       "nextTopicId": "fiqhi-tafsir-method"
@@ -3771,8 +3927,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-fiqhi-tafsir-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-fiqhi-tafsir-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-bil-ray",
       "nextTopicId": "kalami-tafsir-method"
@@ -3820,8 +3980,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-kalami-tafsir-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-kalami-tafsir-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "fiqhi-tafsir-method",
       "nextTopicId": "lugawi-tafsir-method"
@@ -3869,8 +4033,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-lugawi-tafsir-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-lugawi-tafsir-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "kalami-tafsir-method",
       "nextTopicId": "ishari-tafsir-method"
@@ -3918,8 +4086,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-ishari-tafsir-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-ishari-tafsir-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "lugawi-tafsir-method",
       "nextTopicId": "adabi-tafsir-method"
@@ -3967,8 +4139,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-adabi-tafsir-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-adabi-tafsir-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "ishari-tafsir-method",
       "nextTopicId": "maqasidi-tafsir-method"
@@ -4016,8 +4192,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-maqasidi-tafsir-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-maqasidi-tafsir-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "adabi-tafsir-method",
       "nextTopicId": "tafsir-in-prophetic-era"
@@ -4065,8 +4245,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-in-prophetic-era-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-in-prophetic-era-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "maqasidi-tafsir-method",
       "nextTopicId": "tafsir-in-sahabah-era"
@@ -4114,8 +4298,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-in-sahabah-era-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-in-sahabah-era-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-in-prophetic-era",
       "nextTopicId": "tafsir-in-tabiun-era"
@@ -4163,8 +4351,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-in-tabiun-era-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-in-tabiun-era-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-in-sahabah-era",
       "nextTopicId": "early-tafsir-schools"
@@ -4212,8 +4404,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-early-tafsir-schools-concept"
+      ],
+      "shortQAIds": [
+        "qa-early-tafsir-schools-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-in-tabiun-era",
       "nextTopicId": "codification-of-tafsir"
@@ -4261,8 +4457,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-codification-of-tafsir-concept"
+      ],
+      "shortQAIds": [
+        "qa-codification-of-tafsir-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "early-tafsir-schools",
       "nextTopicId": "classical-tafsir-development"
@@ -4310,8 +4510,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-classical-tafsir-development-concept"
+      ],
+      "shortQAIds": [
+        "qa-classical-tafsir-development-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "codification-of-tafsir",
       "nextTopicId": "subcontinent-tafsir-tradition"
@@ -4359,8 +4563,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-subcontinent-tafsir-tradition-concept"
+      ],
+      "shortQAIds": [
+        "qa-subcontinent-tafsir-tradition-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "classical-tafsir-development",
       "nextTopicId": "modern-tafsir-trends"
@@ -4408,8 +4616,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-modern-tafsir-trends-concept"
+      ],
+      "shortQAIds": [
+        "qa-modern-tafsir-trends-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "subcontinent-tafsir-tradition",
       "nextTopicId": "tafsir-tabari"
@@ -4457,8 +4669,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-tabari-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-tabari-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "modern-tafsir-trends",
       "nextTopicId": "tafsir-ibn-kathir"
@@ -4506,8 +4722,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-ibn-kathir-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-ibn-kathir-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-tabari",
       "nextTopicId": "tafsir-qurtubi"
@@ -4555,8 +4775,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-qurtubi-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-qurtubi-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-ibn-kathir",
       "nextTopicId": "tafsir-zamakhshari"
@@ -4604,8 +4828,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-zamakhshari-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-zamakhshari-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-qurtubi",
       "nextTopicId": "tafsir-razi"
@@ -4653,8 +4881,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-razi-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-razi-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-zamakhshari",
       "nextTopicId": "tafsir-jalalayn"
@@ -4702,8 +4934,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafsir-jalalayn-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafsir-jalalayn-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-razi",
       "nextTopicId": "maariful-quran"
@@ -4751,8 +4987,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-maariful-quran-concept"
+      ],
+      "shortQAIds": [
+        "qa-maariful-quran-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafsir-jalalayn",
       "nextTopicId": "tafhim-ul-quran"
@@ -4800,8 +5040,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tafhim-ul-quran-concept"
+      ],
+      "shortQAIds": [
+        "qa-tafhim-ul-quran-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "maariful-quran",
       "nextTopicId": "surah-study-method"
@@ -4849,8 +5093,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-study-method-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-study-method-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tafhim-ul-quran",
       "nextTopicId": "surah-fatihah-central-message"
@@ -4898,8 +5146,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-fatihah-central-message-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-fatihah-central-message-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-study-method",
       "nextTopicId": "surah-baqarah-theme"
@@ -4947,8 +5199,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-baqarah-theme-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-baqarah-theme-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-fatihah-central-message",
       "nextTopicId": "surah-al-imran-theme"
@@ -4996,8 +5252,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-al-imran-theme-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-al-imran-theme-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-baqarah-theme",
       "nextTopicId": "surah-nisa-theme"
@@ -5045,8 +5305,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-nisa-theme-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-nisa-theme-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-al-imran-theme",
       "nextTopicId": "surah-kahf-lessons"
@@ -5094,8 +5358,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-kahf-lessons-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-kahf-lessons-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-nisa-theme",
       "nextTopicId": "short-surahs-study"
@@ -5143,8 +5411,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-short-surahs-study-concept"
+      ],
+      "shortQAIds": [
+        "qa-short-surahs-study-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-kahf-lessons",
       "nextTopicId": "surah-coherence"
@@ -5192,8 +5464,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-surah-coherence-concept"
+      ],
+      "shortQAIds": [
+        "qa-surah-coherence-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "short-surahs-study",
       "nextTopicId": "quranic-concept-of-tawhid"
@@ -5241,8 +5517,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quranic-concept-of-tawhid-concept"
+      ],
+      "shortQAIds": [
+        "qa-quranic-concept-of-tawhid-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "surah-coherence",
       "nextTopicId": "quranic-concept-of-risalah"
@@ -5290,8 +5570,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quranic-concept-of-risalah-concept"
+      ],
+      "shortQAIds": [
+        "qa-quranic-concept-of-risalah-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quranic-concept-of-tawhid",
       "nextTopicId": "quranic-concept-of-akhirah"
@@ -5339,8 +5623,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quranic-concept-of-akhirah-concept"
+      ],
+      "shortQAIds": [
+        "qa-quranic-concept-of-akhirah-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quranic-concept-of-risalah",
       "nextTopicId": "quranic-ethics"
@@ -5388,8 +5676,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quranic-ethics-concept"
+      ],
+      "shortQAIds": [
+        "qa-quranic-ethics-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quranic-concept-of-akhirah",
       "nextTopicId": "quran-and-family-system"
@@ -5437,8 +5729,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-family-system-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-family-system-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quranic-ethics",
       "nextTopicId": "quran-and-social-justice"
@@ -5486,8 +5782,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-social-justice-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-social-justice-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-family-system",
       "nextTopicId": "quran-and-economic-guidance"
@@ -5535,8 +5835,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-economic-guidance-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-economic-guidance-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-social-justice",
       "nextTopicId": "quran-and-dawah"
@@ -5584,8 +5888,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-dawah-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-dawah-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-economic-guidance",
       "nextTopicId": "tajwid-purpose"
@@ -5633,8 +5941,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-tajwid-purpose-concept"
+      ],
+      "shortQAIds": [
+        "qa-tajwid-purpose-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-dawah",
       "nextTopicId": "makharij-al-huruf"
@@ -5682,8 +5994,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-makharij-al-huruf-concept"
+      ],
+      "shortQAIds": [
+        "qa-makharij-al-huruf-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "tajwid-purpose",
       "nextTopicId": "sifat-al-huruf"
@@ -5731,8 +6047,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-sifat-al-huruf-concept"
+      ],
+      "shortQAIds": [
+        "qa-sifat-al-huruf-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "makharij-al-huruf",
       "nextTopicId": "rules-of-noon-meem"
@@ -5780,8 +6100,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-rules-of-noon-meem-concept"
+      ],
+      "shortQAIds": [
+        "qa-rules-of-noon-meem-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "sifat-al-huruf",
       "nextTopicId": "rules-of-madd"
@@ -5829,8 +6153,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-rules-of-madd-concept"
+      ],
+      "shortQAIds": [
+        "qa-rules-of-madd-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "rules-of-noon-meem",
       "nextTopicId": "waqf-ibtida"
@@ -5878,8 +6206,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-waqf-ibtida-concept"
+      ],
+      "shortQAIds": [
+        "qa-waqf-ibtida-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "rules-of-madd",
       "nextTopicId": "qiraat-introduction"
@@ -5927,8 +6259,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-qiraat-introduction-concept"
+      ],
+      "shortQAIds": [
+        "qa-qiraat-introduction-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "waqf-ibtida",
       "nextTopicId": "qiraat-and-meaning"
@@ -5976,8 +6312,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-qiraat-and-meaning-concept"
+      ],
+      "shortQAIds": [
+        "qa-qiraat-and-meaning-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "qiraat-introduction",
       "nextTopicId": "contemporary-quran-understanding"
@@ -6025,8 +6365,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-contemporary-quran-understanding-concept"
+      ],
+      "shortQAIds": [
+        "qa-contemporary-quran-understanding-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "qiraat-and-meaning",
       "nextTopicId": "quran-and-modern-science"
@@ -6074,8 +6418,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-modern-science-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-modern-science-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "contemporary-quran-understanding",
       "nextTopicId": "quran-and-human-rights"
@@ -6123,8 +6471,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-human-rights-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-human-rights-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-modern-science",
       "nextTopicId": "quran-and-gender-discourse"
@@ -6172,8 +6524,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-gender-discourse-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-gender-discourse-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-human-rights",
       "nextTopicId": "quran-and-environment"
@@ -6221,8 +6577,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-environment-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-environment-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-gender-discourse",
       "nextTopicId": "quran-and-media-age"
@@ -6270,8 +6630,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-quran-and-media-age-concept"
+      ],
+      "shortQAIds": [
+        "qa-quran-and-media-age-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-environment",
       "nextTopicId": "modernist-readings-of-quran"
@@ -6319,8 +6683,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-modernist-readings-of-quran-concept"
+      ],
+      "shortQAIds": [
+        "qa-modernist-readings-of-quran-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "quran-and-media-age",
       "nextTopicId": "balanced-contemporary-application"
@@ -6368,8 +6736,12 @@ window.ALHAYAT_DATA = {
         "quran",
         "itqan"
       ],
-      "mcqIds": [],
-      "shortQAIds": [],
+      "mcqIds": [
+        "mcq-balanced-contemporary-application-concept"
+      ],
+      "shortQAIds": [
+        "qa-balanced-contemporary-application-core"
+      ],
       "relatedTopicIds": [],
       "previousTopicId": "modernist-readings-of-quran",
       "nextTopicId": "hadith-introduction"
@@ -7631,6 +8003,2982 @@ window.ALHAYAT_DATA = {
         "sanad"
       ],
       "relatedMcqIds": []
+    },
+    {
+      "id": "mcq-quran-names-attributes-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-names-attributes",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن کے نام اور اوصاف کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "قرآن کے نام اور اوصاف کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-names-attributes"
+      ]
+    },
+    {
+      "id": "mcq-quran-hidayah-centrality-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-hidayah-centrality",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن کا مقصدِ ہدایت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "قرآن کا مقصدِ ہدایت کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-hidayah-centrality"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-human-life-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-and-human-life",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن اور انسانی زندگی کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "قرآن اور انسانی زندگی کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-human-life"
+      ]
+    },
+    {
+      "id": "mcq-quran-as-primary-source-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-as-primary-source",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن بطور اصل مصدرِ دین کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "قرآن بطور اصل مصدرِ دین کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-as-primary-source"
+      ]
+    },
+    {
+      "id": "mcq-quran-relation-with-reader-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-relation-with-reader",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قاری کا قرآن سے تعلق کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "قاری کا قرآن سے تعلق کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-relation-with-reader"
+      ]
+    },
+    {
+      "id": "mcq-quran-etiquettes-of-study-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-etiquettes-of-study",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مطالعۂ قرآن کے آداب کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "مطالعۂ قرآن کے آداب کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-etiquettes-of-study"
+      ]
+    },
+    {
+      "id": "mcq-quran-place-in-islamic-sciences-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-place-in-islamic-sciences",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "اسلامی علوم میں قرآن کی مرکزیت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن مجید کی بنیادی شناخت",
+      "explanation": "اسلامی علوم میں قرآن کی مرکزیت کا اصل علمی محل قرآن مجید کی بنیادی شناخت ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-place-in-islamic-sciences"
+      ]
+    },
+    {
+      "id": "mcq-forms-of-wahi-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "forms-of-wahi",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "وحی کی صورتیں کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "وحی کی صورتیں کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "forms-of-wahi"
+      ]
+    },
+    {
+      "id": "mcq-angel-jibreel-and-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "angel-jibreel-and-revelation",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "جبریل امین اور نزولِ وحی کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "جبریل امین اور نزولِ وحی کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "angel-jibreel-and-revelation"
+      ]
+    },
+    {
+      "id": "mcq-first-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "first-revelation",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "اولین وحی اور آغازِ نزول کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "اولین وحی اور آغازِ نزول کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "first-revelation"
+      ]
+    },
+    {
+      "id": "mcq-gradual-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "gradual-revelation",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تدریجی نزولِ قرآن کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "تدریجی نزولِ قرآن کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "gradual-revelation"
+      ]
+    },
+    {
+      "id": "mcq-makki-madani-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "makki-madani-revelation",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مکی و مدنی نزول کا فرق کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "مکی و مدنی نزول کا فرق کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "makki-madani-revelation"
+      ]
+    },
+    {
+      "id": "mcq-revelation-and-prophetic-life-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "revelation-and-prophetic-life",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "نزولِ قرآن اور سیرتِ نبوی ﷺ کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "نزولِ قرآن اور سیرتِ نبوی ﷺ کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "revelation-and-prophetic-life"
+      ]
+    },
+    {
+      "id": "mcq-preservation-during-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "preservation-during-revelation",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "عہدِ نزول میں حفاظتِ قرآن کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "وحی اور نزولِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "جمع و تدوینِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "وحی اور نزولِ قرآن",
+      "explanation": "عہدِ نزول میں حفاظتِ قرآن کا اصل علمی محل وحی اور نزولِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "preservation-during-revelation"
+      ]
+    },
+    {
+      "id": "mcq-writing-of-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "writing-of-revelation",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "کتابتِ وحی کا نظام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "کتابتِ وحی کا نظام کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "writing-of-revelation"
+      ]
+    },
+    {
+      "id": "mcq-scribes-of-revelation-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "scribes-of-revelation",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "کاتبانِ وحی کا کردار کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "کاتبانِ وحی کا کردار کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "scribes-of-revelation"
+      ]
+    },
+    {
+      "id": "mcq-memorization-in-prophetic-era-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "memorization-in-prophetic-era",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "حفظِ قرآن عہدِ نبوی میں کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "حفظِ قرآن عہدِ نبوی میں کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "memorization-in-prophetic-era"
+      ]
+    },
+    {
+      "id": "mcq-compilation-in-abu-bakr-era-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "compilation-in-abu-bakr-era",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "جمعِ قرآن عہدِ صدیقی میں کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "جمعِ قرآن عہدِ صدیقی میں کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "compilation-in-abu-bakr-era"
+      ]
+    },
+    {
+      "id": "mcq-uthmani-mushaf-standardization-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "uthmani-mushaf-standardization",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مصاحفِ عثمانی کی تدوین کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "مصاحفِ عثمانی کی تدوین کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "uthmani-mushaf-standardization"
+      ]
+    },
+    {
+      "id": "mcq-order-of-ayat-and-surahs-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "order-of-ayat-and-surahs",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "ترتیبِ آیات و سورت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "ترتیبِ آیات و سورت کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "order-of-ayat-and-surahs"
+      ]
+    },
+    {
+      "id": "mcq-rasm-uthmani-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "rasm-uthmani",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "رسمِ عثمانی کی علمی حیثیت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "رسمِ عثمانی کی علمی حیثیت کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "rasm-uthmani"
+      ]
+    },
+    {
+      "id": "mcq-transmission-by-tawatur-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "transmission-by-tawatur",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تواتر سے نقلِ قرآن کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "جمع و تدوینِ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "علوم القرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "جمع و تدوینِ قرآن",
+      "explanation": "تواتر سے نقلِ قرآن کا اصل علمی محل جمع و تدوینِ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "transmission-by-tawatur"
+      ]
+    },
+    {
+      "id": "mcq-uloom-al-quran-scope-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "uloom-al-quran-scope",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "علوم القرآن کا دائرہ کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "علوم القرآن کا دائرہ کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "uloom-al-quran-scope"
+      ]
+    },
+    {
+      "id": "mcq-nasikh-mansukh-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "nasikh-mansukh",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "ناسخ و منسوخ کا فہم کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "ناسخ و منسوخ کا فہم کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "nasikh-mansukh"
+      ]
+    },
+    {
+      "id": "mcq-muhkam-mutashabih-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "muhkam-mutashabih",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "محکم و متشابہ کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "محکم و متشابہ کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "muhkam-mutashabih"
+      ]
+    },
+    {
+      "id": "mcq-aam-khaas-mutlaq-muqayyad-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "aam-khaas-mutlaq-muqayyad",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "عام، خاص، مطلق، مقید کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "عام، خاص، مطلق، مقید کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "aam-khaas-mutlaq-muqayyad"
+      ]
+    },
+    {
+      "id": "mcq-qasas-al-quran-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "qasas-al-quran",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قصص القرآن کا مقصد کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "قصص القرآن کا مقصد کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "qasas-al-quran"
+      ]
+    },
+    {
+      "id": "mcq-amthal-al-quran-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "amthal-al-quran",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "امثال القرآن کی حکمت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "امثال القرآن کی حکمت کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "amthal-al-quran"
+      ]
+    },
+    {
+      "id": "mcq-ijaz-al-quran-overview-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "ijaz-al-quran-overview",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "اعجاز القرآن کا اجمالی فہم کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "علوم القرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "علوم القرآن",
+      "explanation": "اعجاز القرآن کا اجمالی فہم کا اصل علمی محل علوم القرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "ijaz-al-quran-overview"
+      ]
+    },
+    {
+      "id": "mcq-usul-tafsir-meaning-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "usul-tafsir-meaning",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "اصولِ تفسیر کی ضرورت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "اصولِ تفسیر کی ضرورت کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "usul-tafsir-meaning"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-by-quran-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "tafsir-by-quran",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن کی تفسیر قرآن سے کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "قرآن کی تفسیر قرآن سے کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-by-quran"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-by-sunnah-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "tafsir-by-sunnah",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن کی تفسیر سنت سے کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "قرآن کی تفسیر سنت سے کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-by-sunnah"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-by-sahabah-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "tafsir-by-sahabah",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "فہمِ صحابہ کی تفسیری حیثیت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "فہمِ صحابہ کی تفسیری حیثیت کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-by-sahabah"
+      ]
+    },
+    {
+      "id": "mcq-arabic-language-in-tafsir-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "arabic-language-in-tafsir",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تفسیر میں عربی زبان کا کردار کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "تفسیر میں عربی زبان کا کردار کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "arabic-language-in-tafsir"
+      ]
+    },
+    {
+      "id": "mcq-context-in-tafsir-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "context-in-tafsir",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "سیاق و سباق کا اصول کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "سیاق و سباق کا اصول کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "context-in-tafsir"
+      ]
+    },
+    {
+      "id": "mcq-reason-and-tafsir-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "reason-and-tafsir",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "رائے اور تفسیر کی حدود کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "رائے اور تفسیر کی حدود کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "reason-and-tafsir"
+      ]
+    },
+    {
+      "id": "mcq-errors-in-tafsir-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "errors-in-tafsir",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تفسیری غلطیوں کے اسباب کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "اصولِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "اصولِ تفسیر",
+      "explanation": "تفسیری غلطیوں کے اسباب کا اصل علمی محل اصولِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "errors-in-tafsir"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-bil-mathur-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "tafsir-bil-mathur",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "تفسیر بالمأثور کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "تفسیر بالمأثور کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-bil-mathur"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-bil-ray-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "tafsir-bil-ray",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "تفسیر بالرائے کی حدود کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "تفسیر بالرائے کی حدود کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-bil-ray"
+      ]
+    },
+    {
+      "id": "mcq-fiqhi-tafsir-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "fiqhi-tafsir-method",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "فقہی منہجِ تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "فقہی منہجِ تفسیر کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "fiqhi-tafsir-method"
+      ]
+    },
+    {
+      "id": "mcq-kalami-tafsir-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "kalami-tafsir-method",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "کلامی منہجِ تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "کلامی منہجِ تفسیر کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "kalami-tafsir-method"
+      ]
+    },
+    {
+      "id": "mcq-lugawi-tafsir-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "lugawi-tafsir-method",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "لغوی منہجِ تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "لغوی منہجِ تفسیر کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "lugawi-tafsir-method"
+      ]
+    },
+    {
+      "id": "mcq-ishari-tafsir-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "ishari-tafsir-method",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "اشاری تفسیر کا علمی جائزہ کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "اشاری تفسیر کا علمی جائزہ کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "ishari-tafsir-method"
+      ]
+    },
+    {
+      "id": "mcq-adabi-tafsir-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "adabi-tafsir-method",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "ادبی و بیانی منہجِ تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "ادبی و بیانی منہجِ تفسیر کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "adabi-tafsir-method"
+      ]
+    },
+    {
+      "id": "mcq-maqasidi-tafsir-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "maqasidi-tafsir-method",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مقاصدی منہجِ تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "مناہجِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "مناہجِ تفسیر",
+      "explanation": "مقاصدی منہجِ تفسیر کا اصل علمی محل مناہجِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "maqasidi-tafsir-method"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-in-prophetic-era-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "tafsir-in-prophetic-era",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "عہدِ نبوی میں تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "عہدِ نبوی میں تفسیر کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-in-prophetic-era"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-in-sahabah-era-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "tafsir-in-sahabah-era",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "عہدِ صحابہ میں تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "عہدِ صحابہ میں تفسیر کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-in-sahabah-era"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-in-tabiun-era-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "tafsir-in-tabiun-era",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "عہدِ تابعین میں تفسیر کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "عہدِ تابعین میں تفسیر کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-in-tabiun-era"
+      ]
+    },
+    {
+      "id": "mcq-early-tafsir-schools-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "early-tafsir-schools",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "ابتدائی تفسیری مکاتب کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "ابتدائی تفسیری مکاتب کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "early-tafsir-schools"
+      ]
+    },
+    {
+      "id": "mcq-codification-of-tafsir-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "codification-of-tafsir",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تدوینِ تفسیر کا آغاز کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "تدوینِ تفسیر کا آغاز کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "codification-of-tafsir"
+      ]
+    },
+    {
+      "id": "mcq-classical-tafsir-development-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "classical-tafsir-development",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "کلاسیکی تفسیر کا ارتقا کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "کلاسیکی تفسیر کا ارتقا کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "classical-tafsir-development"
+      ]
+    },
+    {
+      "id": "mcq-subcontinent-tafsir-tradition-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "subcontinent-tafsir-tradition",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "برصغیر کی تفسیری روایت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "برصغیر کی تفسیری روایت کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "subcontinent-tafsir-tradition"
+      ]
+    },
+    {
+      "id": "mcq-modern-tafsir-trends-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "modern-tafsir-trends",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "جدید تفسیری رجحانات کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تاریخِ تفسیر",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تاریخِ تفسیر",
+      "explanation": "جدید تفسیری رجحانات کا اصل علمی محل تاریخِ تفسیر ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "modern-tafsir-trends"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-tabari-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-tabari",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "تفسیر طبری کا مقام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "تفسیر طبری کا مقام کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-tabari"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-ibn-kathir-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-ibn-kathir",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "تفسیر ابن کثیر کی خصوصیات کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "تفسیر ابن کثیر کی خصوصیات کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-ibn-kathir"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-qurtubi-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-qurtubi",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "تفسیر قرطبی اور احکام القرآن کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "تفسیر قرطبی اور احکام القرآن کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-qurtubi"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-zamakhshari-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-zamakhshari",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "کشاف زمخشری کا علمی جائزہ کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "کشاف زمخشری کا علمی جائزہ کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-zamakhshari"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-razi-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-razi",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مفاتیح الغیب رازی کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "مفاتیح الغیب رازی کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-razi"
+      ]
+    },
+    {
+      "id": "mcq-tafsir-jalalayn-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-jalalayn",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تفسیر جلالین کا تعارف کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "تفسیر جلالین کا تعارف کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafsir-jalalayn"
+      ]
+    },
+    {
+      "id": "mcq-maariful-quran-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "maariful-quran",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "معارف القرآن کا منہج کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "معارف القرآن کا منہج کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "maariful-quran"
+      ]
+    },
+    {
+      "id": "mcq-tafhim-ul-quran-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafhim-ul-quran",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "تفہیم القرآن کا اسلوب کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "کتبِ تفسیر و مفسرین",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "کتبِ تفسیر و مفسرین",
+      "explanation": "تفہیم القرآن کا اسلوب کا اصل علمی محل کتبِ تفسیر و مفسرین ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tafhim-ul-quran"
+      ]
+    },
+    {
+      "id": "mcq-surah-study-method-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-study-method",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "سورہ وار مطالعہ کا منہج کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورہ وار مطالعہ کا منہج کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-study-method"
+      ]
+    },
+    {
+      "id": "mcq-surah-fatihah-central-message-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-fatihah-central-message",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "سورہ فاتحہ کا مرکزی پیغام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورہ فاتحہ کا مرکزی پیغام کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-fatihah-central-message"
+      ]
+    },
+    {
+      "id": "mcq-surah-baqarah-theme-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-baqarah-theme",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "سورہ بقرہ کا موضوعاتی نظام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورہ بقرہ کا موضوعاتی نظام کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-baqarah-theme"
+      ]
+    },
+    {
+      "id": "mcq-surah-al-imran-theme-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-al-imran-theme",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "سورہ آل عمران کا دعوتی مزاج کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورہ آل عمران کا دعوتی مزاج کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-al-imran-theme"
+      ]
+    },
+    {
+      "id": "mcq-surah-nisa-theme-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-nisa-theme",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "سورہ نساء کا سماجی پیغام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورہ نساء کا سماجی پیغام کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-nisa-theme"
+      ]
+    },
+    {
+      "id": "mcq-surah-kahf-lessons-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-kahf-lessons",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "سورہ کہف کے تربیتی اسباق کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورہ کہف کے تربیتی اسباق کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-kahf-lessons"
+      ]
+    },
+    {
+      "id": "mcq-short-surahs-study-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "short-surahs-study",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مختصر سورتوں کا مطالعہ کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "مختصر سورتوں کا مطالعہ کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "short-surahs-study"
+      ]
+    },
+    {
+      "id": "mcq-surah-coherence-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-coherence",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "سورت کے نظم و ربط کا فہم کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "سورہ وار مطالعہ",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "سورہ وار مطالعہ",
+      "explanation": "سورت کے نظم و ربط کا فہم کا اصل علمی محل سورہ وار مطالعہ ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "surah-coherence"
+      ]
+    },
+    {
+      "id": "mcq-quranic-concept-of-tawhid-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-concept-of-tawhid",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن میں تصورِ توحید کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن میں تصورِ توحید کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quranic-concept-of-tawhid"
+      ]
+    },
+    {
+      "id": "mcq-quranic-concept-of-risalah-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-concept-of-risalah",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن میں تصورِ رسالت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن میں تصورِ رسالت کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quranic-concept-of-risalah"
+      ]
+    },
+    {
+      "id": "mcq-quranic-concept-of-akhirah-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-concept-of-akhirah",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن میں تصورِ آخرت کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن میں تصورِ آخرت کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quranic-concept-of-akhirah"
+      ]
+    },
+    {
+      "id": "mcq-quranic-ethics-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-ethics",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآنی اخلاقیات کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآنی اخلاقیات کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quranic-ethics"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-family-system-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-family-system",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن اور خاندانی نظام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن اور خاندانی نظام کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-family-system"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-social-justice-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-social-justice",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن اور سماجی عدل کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن اور سماجی عدل کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-social-justice"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-economic-guidance-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-economic-guidance",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن کی معاشی رہنمائی کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن کی معاشی رہنمائی کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-economic-guidance"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-dawah-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-dawah",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن کا دعوتی منہج کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "موضوعاتی مطالعۂ قرآن",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "موضوعاتی مطالعۂ قرآن",
+      "explanation": "قرآن کا دعوتی منہج کا اصل علمی محل موضوعاتی مطالعۂ قرآن ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-dawah"
+      ]
+    },
+    {
+      "id": "mcq-tajwid-purpose-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "tajwid-purpose",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "تجوید کا مقصد کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "تجوید کا مقصد کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "tajwid-purpose"
+      ]
+    },
+    {
+      "id": "mcq-makharij-al-huruf-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "makharij-al-huruf",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "مخارج الحروف کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "مخارج الحروف کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "makharij-al-huruf"
+      ]
+    },
+    {
+      "id": "mcq-sifat-al-huruf-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "sifat-al-huruf",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "صفات الحروف کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "صفات الحروف کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "sifat-al-huruf"
+      ]
+    },
+    {
+      "id": "mcq-rules-of-noon-meem-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "rules-of-noon-meem",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "نون ساکن، تنوین اور میم ساکن کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "نون ساکن، تنوین اور میم ساکن کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "rules-of-noon-meem"
+      ]
+    },
+    {
+      "id": "mcq-rules-of-madd-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "rules-of-madd",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "مد کے احکام کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "مد کے احکام کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "rules-of-madd"
+      ]
+    },
+    {
+      "id": "mcq-waqf-ibtida-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "waqf-ibtida",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "وقف و ابتدا کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "وقف و ابتدا کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "waqf-ibtida"
+      ]
+    },
+    {
+      "id": "mcq-qiraat-introduction-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "qiraat-introduction",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قراءات کا تعارف کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "قراءات کا تعارف کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "qiraat-introduction"
+      ]
+    },
+    {
+      "id": "mcq-qiraat-and-meaning-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "qiraat-and-meaning",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قراءات اور معنی کا تعلق کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "تجوید و قراءات",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "تجوید و قراءات",
+      "explanation": "قراءات اور معنی کا تعلق کا اصل علمی محل تجوید و قراءات ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "qiraat-and-meaning"
+      ]
+    },
+    {
+      "id": "mcq-contemporary-quran-understanding-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "contemporary-quran-understanding",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "معاصر قرآن فہمی کا منہج کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "معاصر قرآن فہمی کا منہج کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "contemporary-quran-understanding"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-modern-science-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-modern-science",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن اور جدید سائنس کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "قرآن اور جدید سائنس کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-modern-science"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-human-rights-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-human-rights",
+      "difficulty": "ابتدائی",
+      "type": "concept-location",
+      "statement": "قرآن اور انسانی حقوق کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "قرآن اور انسانی حقوق کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-human-rights"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-gender-discourse-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-gender-discourse",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن اور صنفی مباحث کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "قرآن اور صنفی مباحث کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-gender-discourse"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-environment-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-environment",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن اور ماحولیات کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "قرآن اور ماحولیات کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-environment"
+      ]
+    },
+    {
+      "id": "mcq-quran-and-media-age-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-media-age",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن اور ڈیجیٹل عہد کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "قرآن اور ڈیجیٹل عہد کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "quran-and-media-age"
+      ]
+    },
+    {
+      "id": "mcq-modernist-readings-of-quran-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "modernist-readings-of-quran",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "جدیدیت پسند قرآنی تعبیرات کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "جدیدیت پسند قرآنی تعبیرات کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "modernist-readings-of-quran"
+      ]
+    },
+    {
+      "id": "mcq-balanced-contemporary-application-concept",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "balanced-contemporary-application",
+      "difficulty": "متوسط",
+      "type": "concept-location",
+      "statement": "قرآن کے معاصر اطلاق کی حدود کو قرآن و تفسیر کے کس علمی باب میں اصل طور پر پڑھنا چاہیے؟",
+      "options": [
+        "قرآن اور معاصر فہم",
+        "قرآن مجید کی بنیادی شناخت",
+        "وحی اور نزولِ قرآن",
+        "جمع و تدوینِ قرآن"
+      ],
+      "correctOption": 0,
+      "answer": 0,
+      "answerText": "قرآن اور معاصر فہم",
+      "explanation": "قرآن کے معاصر اطلاق کی حدود کا اصل علمی محل قرآن اور معاصر فہم ہے۔ اسے اسی باب میں رکھنے سے موضوعات کا overlap کم ہوتا ہے اور طالب علم کو معلوم رہتا ہے کہ یہ بحث قرآن فہمی کے کس دائرے سے متعلق ہے۔",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedMcqIds": [],
+      "relatedTopicIds": [
+        "balanced-contemporary-application"
+      ]
     }
   ],
   "shortQA": [
@@ -7742,6 +11090,2238 @@ window.ALHAYAT_DATA = {
       "sourceId": "muqaddimah-muslim",
       "relatedTopicIds": [
         "sanad"
+      ]
+    },
+    {
+      "id": "qa-quran-names-attributes-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-names-attributes",
+      "difficulty": "ابتدائی",
+      "question": "قرآن کے نام اور اوصاف کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کے نام اور اوصاف کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کے نام اور اوصاف کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کے نام اور اوصاف قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-names-attributes"
+      ]
+    },
+    {
+      "id": "qa-quran-hidayah-centrality-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-hidayah-centrality",
+      "difficulty": "ابتدائی",
+      "question": "قرآن کا مقصدِ ہدایت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کا مقصدِ ہدایت کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کا مقصدِ ہدایت کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کا مقصدِ ہدایت قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-hidayah-centrality"
+      ]
+    },
+    {
+      "id": "qa-quran-and-human-life-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-and-human-life",
+      "difficulty": "متوسط",
+      "question": "قرآن اور انسانی زندگی کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور انسانی زندگی کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور انسانی زندگی کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور انسانی زندگی قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-human-life"
+      ]
+    },
+    {
+      "id": "qa-quran-as-primary-source-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-as-primary-source",
+      "difficulty": "متوسط",
+      "question": "قرآن بطور اصل مصدرِ دین کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن بطور اصل مصدرِ دین کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن بطور اصل مصدرِ دین کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن بطور اصل مصدرِ دین قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-as-primary-source"
+      ]
+    },
+    {
+      "id": "qa-quran-relation-with-reader-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-relation-with-reader",
+      "difficulty": "متوسط",
+      "question": "قاری کا قرآن سے تعلق کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قاری کا قرآن سے تعلق کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قاری کا قرآن سے تعلق کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قاری کا قرآن سے تعلق قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-relation-with-reader"
+      ]
+    },
+    {
+      "id": "qa-quran-etiquettes-of-study-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-etiquettes-of-study",
+      "difficulty": "متوسط",
+      "question": "مطالعۂ قرآن کے آداب کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مطالعۂ قرآن کے آداب کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مطالعۂ قرآن کے آداب کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مطالعۂ قرآن کے آداب قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-etiquettes-of-study"
+      ]
+    },
+    {
+      "id": "qa-quran-place-in-islamic-sciences-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-01",
+      "topicId": "quran-place-in-islamic-sciences",
+      "difficulty": "متوسط",
+      "question": "اسلامی علوم میں قرآن کی مرکزیت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "اسلامی علوم میں قرآن کی مرکزیت کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن مجید کی بنیادی شناخت کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "اسلامی علوم میں قرآن کی مرکزیت کو قرآن مجید کی بنیادی شناخت کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "اسلامی علوم میں قرآن کی مرکزیت قرآن و تفسیر کے باب قرآن مجید کی بنیادی شناخت کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-place-in-islamic-sciences"
+      ]
+    },
+    {
+      "id": "qa-forms-of-wahi-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "forms-of-wahi",
+      "difficulty": "ابتدائی",
+      "question": "وحی کی صورتیں کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "وحی کی صورتیں کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "وحی کی صورتیں کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "وحی کی صورتیں قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "forms-of-wahi"
+      ]
+    },
+    {
+      "id": "qa-angel-jibreel-and-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "angel-jibreel-and-revelation",
+      "difficulty": "ابتدائی",
+      "question": "جبریل امین اور نزولِ وحی کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "جبریل امین اور نزولِ وحی کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "جبریل امین اور نزولِ وحی کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "جبریل امین اور نزولِ وحی قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "angel-jibreel-and-revelation"
+      ]
+    },
+    {
+      "id": "qa-first-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "first-revelation",
+      "difficulty": "متوسط",
+      "question": "اولین وحی اور آغازِ نزول کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "اولین وحی اور آغازِ نزول کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "اولین وحی اور آغازِ نزول کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "اولین وحی اور آغازِ نزول قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "first-revelation"
+      ]
+    },
+    {
+      "id": "qa-gradual-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "gradual-revelation",
+      "difficulty": "متوسط",
+      "question": "تدریجی نزولِ قرآن کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تدریجی نزولِ قرآن کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تدریجی نزولِ قرآن کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تدریجی نزولِ قرآن قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "gradual-revelation"
+      ]
+    },
+    {
+      "id": "qa-makki-madani-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "makki-madani-revelation",
+      "difficulty": "متوسط",
+      "question": "مکی و مدنی نزول کا فرق کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مکی و مدنی نزول کا فرق کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مکی و مدنی نزول کا فرق کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مکی و مدنی نزول کا فرق قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "makki-madani-revelation"
+      ]
+    },
+    {
+      "id": "qa-revelation-and-prophetic-life-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "revelation-and-prophetic-life",
+      "difficulty": "متوسط",
+      "question": "نزولِ قرآن اور سیرتِ نبوی ﷺ کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "نزولِ قرآن اور سیرتِ نبوی ﷺ کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "نزولِ قرآن اور سیرتِ نبوی ﷺ کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "نزولِ قرآن اور سیرتِ نبوی ﷺ قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "revelation-and-prophetic-life"
+      ]
+    },
+    {
+      "id": "qa-preservation-during-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-02",
+      "topicId": "preservation-during-revelation",
+      "difficulty": "متوسط",
+      "question": "عہدِ نزول میں حفاظتِ قرآن کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "عہدِ نزول میں حفاظتِ قرآن کا مرکزی فائدہ یہ ہے کہ طالب علم وحی اور نزولِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "عہدِ نزول میں حفاظتِ قرآن کو وحی اور نزولِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "عہدِ نزول میں حفاظتِ قرآن قرآن و تفسیر کے باب وحی اور نزولِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "preservation-during-revelation"
+      ]
+    },
+    {
+      "id": "qa-writing-of-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "writing-of-revelation",
+      "difficulty": "ابتدائی",
+      "question": "کتابتِ وحی کا نظام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "کتابتِ وحی کا نظام کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "کتابتِ وحی کا نظام کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "کتابتِ وحی کا نظام قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "writing-of-revelation"
+      ]
+    },
+    {
+      "id": "qa-scribes-of-revelation-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "scribes-of-revelation",
+      "difficulty": "ابتدائی",
+      "question": "کاتبانِ وحی کا کردار کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "کاتبانِ وحی کا کردار کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "کاتبانِ وحی کا کردار کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "کاتبانِ وحی کا کردار قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "scribes-of-revelation"
+      ]
+    },
+    {
+      "id": "qa-memorization-in-prophetic-era-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "memorization-in-prophetic-era",
+      "difficulty": "ابتدائی",
+      "question": "حفظِ قرآن عہدِ نبوی میں کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "حفظِ قرآن عہدِ نبوی میں کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "حفظِ قرآن عہدِ نبوی میں کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "حفظِ قرآن عہدِ نبوی میں قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "memorization-in-prophetic-era"
+      ]
+    },
+    {
+      "id": "qa-compilation-in-abu-bakr-era-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "compilation-in-abu-bakr-era",
+      "difficulty": "متوسط",
+      "question": "جمعِ قرآن عہدِ صدیقی میں کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "جمعِ قرآن عہدِ صدیقی میں کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "جمعِ قرآن عہدِ صدیقی میں کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "جمعِ قرآن عہدِ صدیقی میں قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "compilation-in-abu-bakr-era"
+      ]
+    },
+    {
+      "id": "qa-uthmani-mushaf-standardization-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "uthmani-mushaf-standardization",
+      "difficulty": "متوسط",
+      "question": "مصاحفِ عثمانی کی تدوین کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مصاحفِ عثمانی کی تدوین کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مصاحفِ عثمانی کی تدوین کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مصاحفِ عثمانی کی تدوین قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "uthmani-mushaf-standardization"
+      ]
+    },
+    {
+      "id": "qa-order-of-ayat-and-surahs-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "order-of-ayat-and-surahs",
+      "difficulty": "متوسط",
+      "question": "ترتیبِ آیات و سورت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "ترتیبِ آیات و سورت کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "ترتیبِ آیات و سورت کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "ترتیبِ آیات و سورت قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "order-of-ayat-and-surahs"
+      ]
+    },
+    {
+      "id": "qa-rasm-uthmani-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "rasm-uthmani",
+      "difficulty": "متوسط",
+      "question": "رسمِ عثمانی کی علمی حیثیت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "رسمِ عثمانی کی علمی حیثیت کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "رسمِ عثمانی کی علمی حیثیت کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "رسمِ عثمانی کی علمی حیثیت قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "rasm-uthmani"
+      ]
+    },
+    {
+      "id": "qa-transmission-by-tawatur-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-03",
+      "topicId": "transmission-by-tawatur",
+      "difficulty": "متوسط",
+      "question": "تواتر سے نقلِ قرآن کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تواتر سے نقلِ قرآن کا مرکزی فائدہ یہ ہے کہ طالب علم جمع و تدوینِ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تواتر سے نقلِ قرآن کو جمع و تدوینِ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تواتر سے نقلِ قرآن قرآن و تفسیر کے باب جمع و تدوینِ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "transmission-by-tawatur"
+      ]
+    },
+    {
+      "id": "qa-uloom-al-quran-scope-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "uloom-al-quran-scope",
+      "difficulty": "ابتدائی",
+      "question": "علوم القرآن کا دائرہ کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "علوم القرآن کا دائرہ کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "علوم القرآن کا دائرہ کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "علوم القرآن کا دائرہ قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "uloom-al-quran-scope"
+      ]
+    },
+    {
+      "id": "qa-nasikh-mansukh-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "nasikh-mansukh",
+      "difficulty": "ابتدائی",
+      "question": "ناسخ و منسوخ کا فہم کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "ناسخ و منسوخ کا فہم کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "ناسخ و منسوخ کا فہم کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "ناسخ و منسوخ کا فہم قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "nasikh-mansukh"
+      ]
+    },
+    {
+      "id": "qa-muhkam-mutashabih-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "muhkam-mutashabih",
+      "difficulty": "متوسط",
+      "question": "محکم و متشابہ کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "محکم و متشابہ کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "محکم و متشابہ کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "محکم و متشابہ قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "muhkam-mutashabih"
+      ]
+    },
+    {
+      "id": "qa-aam-khaas-mutlaq-muqayyad-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "aam-khaas-mutlaq-muqayyad",
+      "difficulty": "متوسط",
+      "question": "عام، خاص، مطلق، مقید کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "عام، خاص، مطلق، مقید کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "عام، خاص، مطلق، مقید کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "عام، خاص، مطلق، مقید قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "aam-khaas-mutlaq-muqayyad"
+      ]
+    },
+    {
+      "id": "qa-qasas-al-quran-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "qasas-al-quran",
+      "difficulty": "متوسط",
+      "question": "قصص القرآن کا مقصد کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قصص القرآن کا مقصد کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قصص القرآن کا مقصد کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قصص القرآن کا مقصد قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "qasas-al-quran"
+      ]
+    },
+    {
+      "id": "qa-amthal-al-quran-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "amthal-al-quran",
+      "difficulty": "متوسط",
+      "question": "امثال القرآن کی حکمت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "امثال القرآن کی حکمت کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "امثال القرآن کی حکمت کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "امثال القرآن کی حکمت قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "amthal-al-quran"
+      ]
+    },
+    {
+      "id": "qa-ijaz-al-quran-overview-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-04",
+      "topicId": "ijaz-al-quran-overview",
+      "difficulty": "متوسط",
+      "question": "اعجاز القرآن کا اجمالی فہم کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "اعجاز القرآن کا اجمالی فہم کا مرکزی فائدہ یہ ہے کہ طالب علم علوم القرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "اعجاز القرآن کا اجمالی فہم کو علوم القرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "اعجاز القرآن کا اجمالی فہم قرآن و تفسیر کے باب علوم القرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "ijaz-al-quran-overview"
+      ]
+    },
+    {
+      "id": "qa-usul-tafsir-meaning-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "usul-tafsir-meaning",
+      "difficulty": "ابتدائی",
+      "question": "اصولِ تفسیر کی ضرورت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "اصولِ تفسیر کی ضرورت کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "اصولِ تفسیر کی ضرورت کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "اصولِ تفسیر کی ضرورت قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "usul-tafsir-meaning"
+      ]
+    },
+    {
+      "id": "qa-tafsir-by-quran-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "tafsir-by-quran",
+      "difficulty": "ابتدائی",
+      "question": "قرآن کی تفسیر قرآن سے کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کی تفسیر قرآن سے کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کی تفسیر قرآن سے کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کی تفسیر قرآن سے قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-by-quran"
+      ]
+    },
+    {
+      "id": "qa-tafsir-by-sunnah-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "tafsir-by-sunnah",
+      "difficulty": "ابتدائی",
+      "question": "قرآن کی تفسیر سنت سے کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کی تفسیر سنت سے کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کی تفسیر سنت سے کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کی تفسیر سنت سے قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-by-sunnah"
+      ]
+    },
+    {
+      "id": "qa-tafsir-by-sahabah-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "tafsir-by-sahabah",
+      "difficulty": "متوسط",
+      "question": "فہمِ صحابہ کی تفسیری حیثیت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "فہمِ صحابہ کی تفسیری حیثیت کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "فہمِ صحابہ کی تفسیری حیثیت کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "فہمِ صحابہ کی تفسیری حیثیت قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-by-sahabah"
+      ]
+    },
+    {
+      "id": "qa-arabic-language-in-tafsir-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "arabic-language-in-tafsir",
+      "difficulty": "متوسط",
+      "question": "تفسیر میں عربی زبان کا کردار کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر میں عربی زبان کا کردار کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر میں عربی زبان کا کردار کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر میں عربی زبان کا کردار قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "arabic-language-in-tafsir"
+      ]
+    },
+    {
+      "id": "qa-context-in-tafsir-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "context-in-tafsir",
+      "difficulty": "متوسط",
+      "question": "سیاق و سباق کا اصول کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سیاق و سباق کا اصول کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سیاق و سباق کا اصول کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سیاق و سباق کا اصول قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "context-in-tafsir"
+      ]
+    },
+    {
+      "id": "qa-reason-and-tafsir-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "reason-and-tafsir",
+      "difficulty": "متوسط",
+      "question": "رائے اور تفسیر کی حدود کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "رائے اور تفسیر کی حدود کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "رائے اور تفسیر کی حدود کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "رائے اور تفسیر کی حدود قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "reason-and-tafsir"
+      ]
+    },
+    {
+      "id": "qa-errors-in-tafsir-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-05",
+      "topicId": "errors-in-tafsir",
+      "difficulty": "متوسط",
+      "question": "تفسیری غلطیوں کے اسباب کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیری غلطیوں کے اسباب کا مرکزی فائدہ یہ ہے کہ طالب علم اصولِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیری غلطیوں کے اسباب کو اصولِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیری غلطیوں کے اسباب قرآن و تفسیر کے باب اصولِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "errors-in-tafsir"
+      ]
+    },
+    {
+      "id": "qa-tafsir-bil-mathur-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "tafsir-bil-mathur",
+      "difficulty": "ابتدائی",
+      "question": "تفسیر بالمأثور کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر بالمأثور کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر بالمأثور کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر بالمأثور قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-bil-mathur"
+      ]
+    },
+    {
+      "id": "qa-tafsir-bil-ray-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "tafsir-bil-ray",
+      "difficulty": "ابتدائی",
+      "question": "تفسیر بالرائے کی حدود کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر بالرائے کی حدود کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر بالرائے کی حدود کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر بالرائے کی حدود قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-bil-ray"
+      ]
+    },
+    {
+      "id": "qa-fiqhi-tafsir-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "fiqhi-tafsir-method",
+      "difficulty": "ابتدائی",
+      "question": "فقہی منہجِ تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "فقہی منہجِ تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "فقہی منہجِ تفسیر کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "فقہی منہجِ تفسیر قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "fiqhi-tafsir-method"
+      ]
+    },
+    {
+      "id": "qa-kalami-tafsir-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "kalami-tafsir-method",
+      "difficulty": "متوسط",
+      "question": "کلامی منہجِ تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "کلامی منہجِ تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "کلامی منہجِ تفسیر کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "کلامی منہجِ تفسیر قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "kalami-tafsir-method"
+      ]
+    },
+    {
+      "id": "qa-lugawi-tafsir-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "lugawi-tafsir-method",
+      "difficulty": "متوسط",
+      "question": "لغوی منہجِ تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "لغوی منہجِ تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "لغوی منہجِ تفسیر کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "لغوی منہجِ تفسیر قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "lugawi-tafsir-method"
+      ]
+    },
+    {
+      "id": "qa-ishari-tafsir-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "ishari-tafsir-method",
+      "difficulty": "متوسط",
+      "question": "اشاری تفسیر کا علمی جائزہ کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "اشاری تفسیر کا علمی جائزہ کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "اشاری تفسیر کا علمی جائزہ کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "اشاری تفسیر کا علمی جائزہ قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "ishari-tafsir-method"
+      ]
+    },
+    {
+      "id": "qa-adabi-tafsir-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "adabi-tafsir-method",
+      "difficulty": "متوسط",
+      "question": "ادبی و بیانی منہجِ تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "ادبی و بیانی منہجِ تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "ادبی و بیانی منہجِ تفسیر کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "ادبی و بیانی منہجِ تفسیر قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "adabi-tafsir-method"
+      ]
+    },
+    {
+      "id": "qa-maqasidi-tafsir-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-06",
+      "topicId": "maqasidi-tafsir-method",
+      "difficulty": "متوسط",
+      "question": "مقاصدی منہجِ تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مقاصدی منہجِ تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم مناہجِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مقاصدی منہجِ تفسیر کو مناہجِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مقاصدی منہجِ تفسیر قرآن و تفسیر کے باب مناہجِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "maqasidi-tafsir-method"
+      ]
+    },
+    {
+      "id": "qa-tafsir-in-prophetic-era-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "tafsir-in-prophetic-era",
+      "difficulty": "ابتدائی",
+      "question": "عہدِ نبوی میں تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "عہدِ نبوی میں تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "عہدِ نبوی میں تفسیر کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "عہدِ نبوی میں تفسیر قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-in-prophetic-era"
+      ]
+    },
+    {
+      "id": "qa-tafsir-in-sahabah-era-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "tafsir-in-sahabah-era",
+      "difficulty": "ابتدائی",
+      "question": "عہدِ صحابہ میں تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "عہدِ صحابہ میں تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "عہدِ صحابہ میں تفسیر کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "عہدِ صحابہ میں تفسیر قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-in-sahabah-era"
+      ]
+    },
+    {
+      "id": "qa-tafsir-in-tabiun-era-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "tafsir-in-tabiun-era",
+      "difficulty": "ابتدائی",
+      "question": "عہدِ تابعین میں تفسیر کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "عہدِ تابعین میں تفسیر کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "عہدِ تابعین میں تفسیر کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "عہدِ تابعین میں تفسیر قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-in-tabiun-era"
+      ]
+    },
+    {
+      "id": "qa-early-tafsir-schools-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "early-tafsir-schools",
+      "difficulty": "متوسط",
+      "question": "ابتدائی تفسیری مکاتب کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "ابتدائی تفسیری مکاتب کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "ابتدائی تفسیری مکاتب کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "ابتدائی تفسیری مکاتب قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "early-tafsir-schools"
+      ]
+    },
+    {
+      "id": "qa-codification-of-tafsir-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "codification-of-tafsir",
+      "difficulty": "متوسط",
+      "question": "تدوینِ تفسیر کا آغاز کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تدوینِ تفسیر کا آغاز کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تدوینِ تفسیر کا آغاز کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تدوینِ تفسیر کا آغاز قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "codification-of-tafsir"
+      ]
+    },
+    {
+      "id": "qa-classical-tafsir-development-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "classical-tafsir-development",
+      "difficulty": "متوسط",
+      "question": "کلاسیکی تفسیر کا ارتقا کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "کلاسیکی تفسیر کا ارتقا کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "کلاسیکی تفسیر کا ارتقا کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "کلاسیکی تفسیر کا ارتقا قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "classical-tafsir-development"
+      ]
+    },
+    {
+      "id": "qa-subcontinent-tafsir-tradition-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "subcontinent-tafsir-tradition",
+      "difficulty": "متوسط",
+      "question": "برصغیر کی تفسیری روایت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "برصغیر کی تفسیری روایت کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "برصغیر کی تفسیری روایت کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "برصغیر کی تفسیری روایت قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "subcontinent-tafsir-tradition"
+      ]
+    },
+    {
+      "id": "qa-modern-tafsir-trends-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-07",
+      "topicId": "modern-tafsir-trends",
+      "difficulty": "متوسط",
+      "question": "جدید تفسیری رجحانات کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "جدید تفسیری رجحانات کا مرکزی فائدہ یہ ہے کہ طالب علم تاریخِ تفسیر کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "جدید تفسیری رجحانات کو تاریخِ تفسیر کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "جدید تفسیری رجحانات قرآن و تفسیر کے باب تاریخِ تفسیر کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "modern-tafsir-trends"
+      ]
+    },
+    {
+      "id": "qa-tafsir-tabari-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-tabari",
+      "difficulty": "ابتدائی",
+      "question": "تفسیر طبری کا مقام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر طبری کا مقام کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر طبری کا مقام کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر طبری کا مقام قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-tabari"
+      ]
+    },
+    {
+      "id": "qa-tafsir-ibn-kathir-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-ibn-kathir",
+      "difficulty": "ابتدائی",
+      "question": "تفسیر ابن کثیر کی خصوصیات کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر ابن کثیر کی خصوصیات کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر ابن کثیر کی خصوصیات کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر ابن کثیر کی خصوصیات قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-ibn-kathir"
+      ]
+    },
+    {
+      "id": "qa-tafsir-qurtubi-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-qurtubi",
+      "difficulty": "ابتدائی",
+      "question": "تفسیر قرطبی اور احکام القرآن کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر قرطبی اور احکام القرآن کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر قرطبی اور احکام القرآن کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر قرطبی اور احکام القرآن قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-qurtubi"
+      ]
+    },
+    {
+      "id": "qa-tafsir-zamakhshari-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-zamakhshari",
+      "difficulty": "متوسط",
+      "question": "کشاف زمخشری کا علمی جائزہ کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "کشاف زمخشری کا علمی جائزہ کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "کشاف زمخشری کا علمی جائزہ کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "کشاف زمخشری کا علمی جائزہ قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-zamakhshari"
+      ]
+    },
+    {
+      "id": "qa-tafsir-razi-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-razi",
+      "difficulty": "متوسط",
+      "question": "مفاتیح الغیب رازی کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مفاتیح الغیب رازی کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مفاتیح الغیب رازی کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مفاتیح الغیب رازی قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-razi"
+      ]
+    },
+    {
+      "id": "qa-tafsir-jalalayn-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafsir-jalalayn",
+      "difficulty": "متوسط",
+      "question": "تفسیر جلالین کا تعارف کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفسیر جلالین کا تعارف کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفسیر جلالین کا تعارف کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفسیر جلالین کا تعارف قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafsir-jalalayn"
+      ]
+    },
+    {
+      "id": "qa-maariful-quran-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "maariful-quran",
+      "difficulty": "متوسط",
+      "question": "معارف القرآن کا منہج کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "معارف القرآن کا منہج کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "معارف القرآن کا منہج کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "معارف القرآن کا منہج قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "maariful-quran"
+      ]
+    },
+    {
+      "id": "qa-tafhim-ul-quran-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-08",
+      "topicId": "tafhim-ul-quran",
+      "difficulty": "متوسط",
+      "question": "تفہیم القرآن کا اسلوب کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تفہیم القرآن کا اسلوب کا مرکزی فائدہ یہ ہے کہ طالب علم کتبِ تفسیر و مفسرین کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تفہیم القرآن کا اسلوب کو کتبِ تفسیر و مفسرین کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تفہیم القرآن کا اسلوب قرآن و تفسیر کے باب کتبِ تفسیر و مفسرین کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tafhim-ul-quran"
+      ]
+    },
+    {
+      "id": "qa-surah-study-method-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-study-method",
+      "difficulty": "ابتدائی",
+      "question": "سورہ وار مطالعہ کا منہج کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورہ وار مطالعہ کا منہج کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورہ وار مطالعہ کا منہج کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورہ وار مطالعہ کا منہج قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-study-method"
+      ]
+    },
+    {
+      "id": "qa-surah-fatihah-central-message-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-fatihah-central-message",
+      "difficulty": "ابتدائی",
+      "question": "سورہ فاتحہ کا مرکزی پیغام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورہ فاتحہ کا مرکزی پیغام کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورہ فاتحہ کا مرکزی پیغام کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورہ فاتحہ کا مرکزی پیغام قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-fatihah-central-message"
+      ]
+    },
+    {
+      "id": "qa-surah-baqarah-theme-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-baqarah-theme",
+      "difficulty": "ابتدائی",
+      "question": "سورہ بقرہ کا موضوعاتی نظام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورہ بقرہ کا موضوعاتی نظام کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورہ بقرہ کا موضوعاتی نظام کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورہ بقرہ کا موضوعاتی نظام قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-baqarah-theme"
+      ]
+    },
+    {
+      "id": "qa-surah-al-imran-theme-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-al-imran-theme",
+      "difficulty": "متوسط",
+      "question": "سورہ آل عمران کا دعوتی مزاج کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورہ آل عمران کا دعوتی مزاج کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورہ آل عمران کا دعوتی مزاج کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورہ آل عمران کا دعوتی مزاج قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-al-imran-theme"
+      ]
+    },
+    {
+      "id": "qa-surah-nisa-theme-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-nisa-theme",
+      "difficulty": "متوسط",
+      "question": "سورہ نساء کا سماجی پیغام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورہ نساء کا سماجی پیغام کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورہ نساء کا سماجی پیغام کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورہ نساء کا سماجی پیغام قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-nisa-theme"
+      ]
+    },
+    {
+      "id": "qa-surah-kahf-lessons-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-kahf-lessons",
+      "difficulty": "متوسط",
+      "question": "سورہ کہف کے تربیتی اسباق کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورہ کہف کے تربیتی اسباق کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورہ کہف کے تربیتی اسباق کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورہ کہف کے تربیتی اسباق قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-kahf-lessons"
+      ]
+    },
+    {
+      "id": "qa-short-surahs-study-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "short-surahs-study",
+      "difficulty": "متوسط",
+      "question": "مختصر سورتوں کا مطالعہ کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مختصر سورتوں کا مطالعہ کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مختصر سورتوں کا مطالعہ کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مختصر سورتوں کا مطالعہ قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "short-surahs-study"
+      ]
+    },
+    {
+      "id": "qa-surah-coherence-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-09",
+      "topicId": "surah-coherence",
+      "difficulty": "متوسط",
+      "question": "سورت کے نظم و ربط کا فہم کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "سورت کے نظم و ربط کا فہم کا مرکزی فائدہ یہ ہے کہ طالب علم سورہ وار مطالعہ کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "سورت کے نظم و ربط کا فہم کو سورہ وار مطالعہ کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "سورت کے نظم و ربط کا فہم قرآن و تفسیر کے باب سورہ وار مطالعہ کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "surah-coherence"
+      ]
+    },
+    {
+      "id": "qa-quranic-concept-of-tawhid-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-concept-of-tawhid",
+      "difficulty": "ابتدائی",
+      "question": "قرآن میں تصورِ توحید کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن میں تصورِ توحید کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن میں تصورِ توحید کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن میں تصورِ توحید قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quranic-concept-of-tawhid"
+      ]
+    },
+    {
+      "id": "qa-quranic-concept-of-risalah-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-concept-of-risalah",
+      "difficulty": "ابتدائی",
+      "question": "قرآن میں تصورِ رسالت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن میں تصورِ رسالت کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن میں تصورِ رسالت کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن میں تصورِ رسالت قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quranic-concept-of-risalah"
+      ]
+    },
+    {
+      "id": "qa-quranic-concept-of-akhirah-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-concept-of-akhirah",
+      "difficulty": "ابتدائی",
+      "question": "قرآن میں تصورِ آخرت کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن میں تصورِ آخرت کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن میں تصورِ آخرت کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن میں تصورِ آخرت قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quranic-concept-of-akhirah"
+      ]
+    },
+    {
+      "id": "qa-quranic-ethics-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quranic-ethics",
+      "difficulty": "متوسط",
+      "question": "قرآنی اخلاقیات کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآنی اخلاقیات کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآنی اخلاقیات کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآنی اخلاقیات قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quranic-ethics"
+      ]
+    },
+    {
+      "id": "qa-quran-and-family-system-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-family-system",
+      "difficulty": "متوسط",
+      "question": "قرآن اور خاندانی نظام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور خاندانی نظام کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور خاندانی نظام کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور خاندانی نظام قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-family-system"
+      ]
+    },
+    {
+      "id": "qa-quran-and-social-justice-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-social-justice",
+      "difficulty": "متوسط",
+      "question": "قرآن اور سماجی عدل کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور سماجی عدل کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور سماجی عدل کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور سماجی عدل قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-social-justice"
+      ]
+    },
+    {
+      "id": "qa-quran-and-economic-guidance-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-economic-guidance",
+      "difficulty": "متوسط",
+      "question": "قرآن کی معاشی رہنمائی کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کی معاشی رہنمائی کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کی معاشی رہنمائی کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کی معاشی رہنمائی قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-economic-guidance"
+      ]
+    },
+    {
+      "id": "qa-quran-and-dawah-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-10",
+      "topicId": "quran-and-dawah",
+      "difficulty": "متوسط",
+      "question": "قرآن کا دعوتی منہج کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کا دعوتی منہج کا مرکزی فائدہ یہ ہے کہ طالب علم موضوعاتی مطالعۂ قرآن کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کا دعوتی منہج کو موضوعاتی مطالعۂ قرآن کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کا دعوتی منہج قرآن و تفسیر کے باب موضوعاتی مطالعۂ قرآن کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-dawah"
+      ]
+    },
+    {
+      "id": "qa-tajwid-purpose-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "tajwid-purpose",
+      "difficulty": "ابتدائی",
+      "question": "تجوید کا مقصد کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "تجوید کا مقصد کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "تجوید کا مقصد کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "تجوید کا مقصد قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "tajwid-purpose"
+      ]
+    },
+    {
+      "id": "qa-makharij-al-huruf-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "makharij-al-huruf",
+      "difficulty": "ابتدائی",
+      "question": "مخارج الحروف کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مخارج الحروف کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مخارج الحروف کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مخارج الحروف قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "makharij-al-huruf"
+      ]
+    },
+    {
+      "id": "qa-sifat-al-huruf-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "sifat-al-huruf",
+      "difficulty": "ابتدائی",
+      "question": "صفات الحروف کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "صفات الحروف کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "صفات الحروف کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "صفات الحروف قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "sifat-al-huruf"
+      ]
+    },
+    {
+      "id": "qa-rules-of-noon-meem-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "rules-of-noon-meem",
+      "difficulty": "متوسط",
+      "question": "نون ساکن، تنوین اور میم ساکن کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "نون ساکن، تنوین اور میم ساکن کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "نون ساکن، تنوین اور میم ساکن کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "نون ساکن، تنوین اور میم ساکن قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "rules-of-noon-meem"
+      ]
+    },
+    {
+      "id": "qa-rules-of-madd-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "rules-of-madd",
+      "difficulty": "متوسط",
+      "question": "مد کے احکام کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "مد کے احکام کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "مد کے احکام کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "مد کے احکام قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "rules-of-madd"
+      ]
+    },
+    {
+      "id": "qa-waqf-ibtida-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "waqf-ibtida",
+      "difficulty": "متوسط",
+      "question": "وقف و ابتدا کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "وقف و ابتدا کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "وقف و ابتدا کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "وقف و ابتدا قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "waqf-ibtida"
+      ]
+    },
+    {
+      "id": "qa-qiraat-introduction-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "qiraat-introduction",
+      "difficulty": "متوسط",
+      "question": "قراءات کا تعارف کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قراءات کا تعارف کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قراءات کا تعارف کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قراءات کا تعارف قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "qiraat-introduction"
+      ]
+    },
+    {
+      "id": "qa-qiraat-and-meaning-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-11",
+      "topicId": "qiraat-and-meaning",
+      "difficulty": "متوسط",
+      "question": "قراءات اور معنی کا تعلق کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قراءات اور معنی کا تعلق کا مرکزی فائدہ یہ ہے کہ طالب علم تجوید و قراءات کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قراءات اور معنی کا تعلق کو تجوید و قراءات کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قراءات اور معنی کا تعلق قرآن و تفسیر کے باب تجوید و قراءات کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "qiraat-and-meaning"
+      ]
+    },
+    {
+      "id": "qa-contemporary-quran-understanding-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "contemporary-quran-understanding",
+      "difficulty": "ابتدائی",
+      "question": "معاصر قرآن فہمی کا منہج کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "معاصر قرآن فہمی کا منہج کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "معاصر قرآن فہمی کا منہج کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "معاصر قرآن فہمی کا منہج قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "contemporary-quran-understanding"
+      ]
+    },
+    {
+      "id": "qa-quran-and-modern-science-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-modern-science",
+      "difficulty": "ابتدائی",
+      "question": "قرآن اور جدید سائنس کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور جدید سائنس کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور جدید سائنس کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور جدید سائنس قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-modern-science"
+      ]
+    },
+    {
+      "id": "qa-quran-and-human-rights-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-human-rights",
+      "difficulty": "ابتدائی",
+      "question": "قرآن اور انسانی حقوق کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور انسانی حقوق کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور انسانی حقوق کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور انسانی حقوق قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-human-rights"
+      ]
+    },
+    {
+      "id": "qa-quran-and-gender-discourse-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-gender-discourse",
+      "difficulty": "متوسط",
+      "question": "قرآن اور صنفی مباحث کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور صنفی مباحث کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور صنفی مباحث کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور صنفی مباحث قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-gender-discourse"
+      ]
+    },
+    {
+      "id": "qa-quran-and-environment-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-environment",
+      "difficulty": "متوسط",
+      "question": "قرآن اور ماحولیات کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور ماحولیات کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور ماحولیات کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور ماحولیات قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-environment"
+      ]
+    },
+    {
+      "id": "qa-quran-and-media-age-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "quran-and-media-age",
+      "difficulty": "متوسط",
+      "question": "قرآن اور ڈیجیٹل عہد کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن اور ڈیجیٹل عہد کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن اور ڈیجیٹل عہد کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن اور ڈیجیٹل عہد قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "quran-and-media-age"
+      ]
+    },
+    {
+      "id": "qa-modernist-readings-of-quran-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "modernist-readings-of-quran",
+      "difficulty": "متوسط",
+      "question": "جدیدیت پسند قرآنی تعبیرات کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "جدیدیت پسند قرآنی تعبیرات کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "جدیدیت پسند قرآنی تعبیرات کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "جدیدیت پسند قرآنی تعبیرات قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "modernist-readings-of-quran"
+      ]
+    },
+    {
+      "id": "qa-balanced-contemporary-application-core",
+      "subjectId": "quran-tafsir",
+      "sectionId": "quran-tafsir-12",
+      "topicId": "balanced-contemporary-application",
+      "difficulty": "متوسط",
+      "question": "قرآن کے معاصر اطلاق کی حدود کا مرکزی علمی فائدہ کیا ہے؟",
+      "answer": "قرآن کے معاصر اطلاق کی حدود کا مرکزی فائدہ یہ ہے کہ طالب علم قرآن اور معاصر فہم کے اندر ایک مخصوص تصور کو اس کے اصل علمی مقام پر سمجھتا ہے۔ اس سے قریبی مگر الگ مباحث آپس میں خلط نہیں ہوتے اور قرآن و تفسیر کا مطالعہ منظم رہتا ہے۔ اس موضوع کو پڑھتے وقت تعریف، دائرہ، قرآنی فہم سے تعلق اور عملی نتیجہ چاروں پہلو سامنے رکھنے چاہییں۔ امتحانی جواب میں پہلے موضوع کا اصل محل بیان کریں، پھر ایک مختصر وضاحت اور مناسب مثال یا دلیل شامل کریں۔",
+      "keyPoint": "قرآن کے معاصر اطلاق کی حدود کو قرآن اور معاصر فہم کے اندر اس کے اصل مقام پر سمجھنا ضروری ہے۔",
+      "example": "قرآن کے معاصر اطلاق کی حدود قرآن و تفسیر کے باب قرآن اور معاصر فہم کا مستقل اور غیر متداخل ذیلی موضوع ہے۔",
+      "quote": "",
+      "sourceId": "quran",
+      "sourceIds": [
+        "quran",
+        "itqan"
+      ],
+      "termIds": [
+        "quran",
+        "tafsir"
+      ],
+      "relatedTopicIds": [
+        "balanced-contemporary-application"
       ]
     }
   ],
